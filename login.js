@@ -1,6 +1,6 @@
 const userName = "smth",
   password = "smth";
 
-if (userName === "admin" && password === "12345") {
+if (userName === "smth" && password === "smth") {
   console.log("Welcome back!");
 }
